@@ -1,6 +1,6 @@
 # IM931:Interdisciplinary Approaches to Machine Learning
 
-Spring 2019, Centre for Interdisciplinary Methodologies, University of Warwick
+Spring 2019, [Centre for Interdisciplinary Methodologies](https://warwick.ac.uk/cim/), University of Warwick
 
 ## Outline
 
