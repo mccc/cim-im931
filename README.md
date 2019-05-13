@@ -10,16 +10,16 @@ This module serves as an interdisciplinary introduction to contemporary machine 
 
 Dr Michael Castelle
 
+### Assessments
+- 40% Laboratory Assignment and Report (15 CATS: 2000 words, 20/30 CATS: 3000 words) 
+- 10% Group Presentation
+- 50% Final Project and Report (15 CATS: 2000 words; 20 CATS: 3000 words; 30 CATS: 4000 words)
+
 ### Reading Key
 
 - [R] Required reading
 - (*) Available for Presentation
 - [CS] Computer Science, [CogS] Cognitive Science, [H] History, [L] Law, [LT] Literary Theory, [M] Math/s, [P] Psychology, [S] Semiotics, [SS] Social Sciences, [Stat] Statistics, [T] Theory
-
-### Assessments
-- 40% Laboratory Assignment and Report (15 CATS: 2000 words, 20/30 CATS: 3000 words) 
-- 10% Group Presentation
-- 50% Final Project and Report (15 CATS: 2000 words; 20 CATS: 3000 words; 30 CATS: 4000 words)
 
 ## Week 01. Introduction: A Social History of Machine Learning.
 - [R] Chollet, Francois, and J.J. Allaire. 2018. “What Is Deep Learning?” In Deep Learning with R, 1st edition, 3–23. Shelter Island, NY: Manning Publications.
