@@ -62,7 +62,7 @@ Dr Michael Castelle
 - [CS] LeCun, Y., B. Boser, J. S. Denker, D. Henderson, R. E. Howard, W. Hubbard, and L. D. Jackel. 1989. “Backpropagation Applied to Handwritten Zip Code Recognition.” Neural Comput. 1 (4): 541–551.
 
 ## Week 06 Reading Week — NO CLASS
-- Laboratory Assignment and Report DUE Wednesday 13th February
+*Laboratory Assignment and Report DUE Wednesday 13th February*
 
 ## Week 07. Sequence to Sequence: Recurrent Neural Networks (RNNs), Machine Translation, Structuralism and Poetics.
 - [R] Chollet and Allaire 2018, 164-217.
