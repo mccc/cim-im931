@@ -22,7 +22,7 @@ Dr Michael Castelle
 - 50% Final Project and Report (15 CATS: 2000 words; 20 CATS: 3000 words; 30 CATS: 4000 words)
 
 ## Week 01. Introduction: A Social History of Machine Learning.
-- [R] Chollet, Francois, and J.J. Allaire. 2018. “What Is Deep Learning?” In Deep Learning with R, 1 edition, 3–23. Shelter Island, NY: Manning Publications.
+- [R] Chollet, Francois, and J.J. Allaire. 2018. “What Is Deep Learning?” In Deep Learning with R, 1st edition, 3–23. Shelter Island, NY: Manning Publications.
 - [SS] Mackenzie, Adrian. 2017. 2017a. “Introduction: Into the Data.” In Machine Learners: Archaeology of a Data Practice, 1–19. Cambridge, MA: MIT Press.
 - (*) [Stat] Breiman, Leo. 2001. “Statistical Modeling: The Two Cultures (with Comments and a Rejoinder by the Author).” Statistical Science 16 (3): 199–231.
 - (*) [SS] Boelart, Julien, and Étienne Ollion. 2018. “The Great Regression Machine Learning, Econometrics, and the Future of Quantitative Social Sciences.” Revue Française de Sociologie 59 (475–506)
@@ -89,11 +89,11 @@ Jordan, M. I. (1999). Recurrent Networks. In R. A. Wilson & F. C. Keil (Eds.), T
 - [R] [SS] Burrell, Jenna. 2016. “How the Machine ‘Thinks’: Understanding Opacity in Machine Learning Algorithms.” Big Data & Society 3 (1)
 - (*) [SS] Jones, Raya A. 2017. “What Makes a Robot ‘Social’?” Social Studies of Science, 1–24.
 - (*) [CogS] Marková, Ivana. 2003. Dialogicality and Social Representations: The Dynamics of Mind. Cambridge: Cambridge University Press.
-- (*) [LT] Bakhtin, M. M. 1982. The Dialogic Imagination: Four Essays. Edited by Michael Holquist. Translated by Caryl Emerson. New Ed edition. Austin, Tex: University of Texas Press.
+- (*) [LT] Bakhtin, M. M. 1982. The Dialogic Imagination: Four Essays. Edited by Michael Holquist. Translated by Caryl Emerson. Austin, Tex: University of Texas Press.
 
 ## Week 10 Agency: Reinforcement Learning, Autonomous Agents, and Alignment
 *Final Project Revised Proposal DUE*
-- (*) [SS] Goffman, Erving. 1986. Frame Analysis: An Essay on the Organization of Experience. New edition edition. Boston: Northeastern University Press.
+- (*) [SS] Goffman, Erving. 1986. Frame Analysis: An Essay on the Organization of Experience. Boston: Northeastern University Press.
 - (*) [CS] Leike, Jan, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, and Shane Legg. 2018. “Scalable Agent Alignment via Reward Modeling: A Research Direction.” ArXiv:1811.07871 [Cs, Stat], November. http://arxiv.org/abs/1811.07871.
 - (*) [CS, L] Hadfield-Menell, Dylan, and Gillian Hadfield. 2018. “Incomplete Contracting and AI Alignment.” ArXiv:1804.04268 [Cs], April. http://arxiv.org/abs/1804.04268.
 - (*) [CS] Zahavy, Tom, Nir Ben Zrihem, and Shie Mannor. 2016. “Graying the Black Box: Understanding DQNs,” February. https://arxiv.org/abs/1602.02658v4.
