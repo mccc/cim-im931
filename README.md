@@ -44,7 +44,7 @@ Dr Michael Castelle
 - (*) [SS] Kockelman, P. (2013). The anthropology of an equation. Sieves, spam filters, agentive algorithms, and ontologies of transformation. HAU: Journal of Ethnographic Theory, 3(3), 33–61.
 - [CS] Langley, Pat. 2011. “The Changing Science of Machine Learning.” Machine Learning 82 (3): 275–79.
 
-## Week 04. Machine Learning Workflow: Parameters, Hyperparameters, and Technical Ensembles
+## Week 04. Machine Learning Workflows: Parameters, Hyperparameters, and Technical Ensembles
 - [R] Chollet and Allaire 2018, 84-107.
 - [R] [SS] Mackenzie, Adrian. 2015. “The Production of Prediction: What Does Machine Learning Want?” European Journal of Cultural Studies 18 (4–5): 429–45.
 - (*) [T] Serres, Michel. 1982. “The Origin of Language: Biology, Information Theory, & Thermodynamics.” In Hermes: Literature, Science, Philosophy, edited by Josué V. Harari and David F. Bell, 71–83. Baltimore: Johns Hopkins University Press.
@@ -63,3 +63,25 @@ Dr Michael Castelle
 
 ## Week 06 Reading Week — NO CLASS
 - Laboratory Assignment and Report DUE Wednesday 13th February
+
+## Week 07. Sequence to Sequence: Recurrent Neural Networks (RNNs), Machine Translation, Structuralism and Poetics.
+- [R] Chollet and Allaire 2018, 164-217.
+- [R] [CogS] Bates, Elizabeth A., and Jeffrey L. Elman. 1993. “Connectionism and the Study of Change.” In Brain Development and Cognition: A Reader. Oxford: Blackwell Publishers. 1993. Pp., 623–42. Oxford: Blackwell Publishers.
+- [R] [CS] Karpathy, Andrej. 2015. “The Unreasonable Effectiveness of Recurrent Neural Networks.” May 21, 2015. http://karpathy.github.io/2015/05/21/rnn-effectiveness/.
+- (*) [CogS] Elman, Jeffrey L. 1990. “Finding Structure in Time.” Cognitive Science 14 (2): 179–211. https://doi.org/10.1207/s15516709cog1402_1.
+- (*) Saussure, Ferdinand de. 1916. Course in General Linguistics. McGraw-Hill. Intro., ch. 2-5; pt. I, ch. 1-2; pt. II.
+Jordan, M. I. (1999). Recurrent Networks. In R. A. Wilson & F. C. Keil (Eds.), The MIT Encyclopedia of the Cognitive Sciences (Cdr edition, pp. 709–712). Cambridge, Mass: MIT Press.
+- [CS] Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean. 2013. “Distributed Representations of Words and Phrases and Their Compositionality.” In Proceedings of the 26th International Conference on Neural Information Processing Systems - Volume 2, 3111–3119. NIPS’13.
+- [CS] Hochreiter, S., and J. Schmidhuber. 1997. “Long Short-Term Memory.” Neural Computation 9 (8): 1735–80.
+- [CS] Gers, Felix A., Jürgen A. Schmidhuber, and Fred A. Cummins. 2000. “Learning to Forget: Continual Prediction with LSTM.” Neural Comput. 12 (10): 2451–2471.
+- [CS] Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg Corrado, and Jeffrey Dean. 2013. “Distributed Representations of Words and Phrases and Their Compositionality.” In Proceedings of the 26th International Conference on Neural Information Processing Systems - Volume 2, 3111–3119. NIPS’13.
+- [CS] Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. 2017. “Attention Is All You Need,” June. https://arxiv.org/abs/1706.03762v5.
+
+## Week 08. Generative Adversarial Networks, Creative AI, and the Habitus.
+- Final Project Draft Proposal DUE
+
+- [R] [CS] Mordvintsev, Alexander, Christopher Olah, and Mike Tyka. 2015. “Inceptionism: Going Deeper into Neural Networks.” Google Research Blog (blog). June 2015. https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html.
+- [R] [CS] Olah, Chris, Alexander Mordvintsev, and Ludwig Schubert. 2017. “Feature Visualization.” Distill 2 (11): e7. https://doi.org/10.23915/distill.00007.
+- (*) [CS] Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. 2015. “A Neural Algorithm of Artistic Style.” ArXiv:1508.06576 [Cs, q-Bio], August. http://arxiv.org/abs/1508.06576.
+- (*) [CS] Goodfellow, Ian J., Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. 2014. “Generative Adversarial Networks.” ArXiv:1406.2661 [Cs, Stat], June. http://arxiv.org/abs/1406.2661.
+- (*) [CS] Karpathy, Andrej, and Li Fei-Fei. 2014. “Deep Visual-Semantic Alignments for Generating Image Descriptions,” December. https://arxiv.org/abs/1412.2306v2.
