@@ -78,8 +78,7 @@ Jordan, M. I. (1999). Recurrent Networks. In R. A. Wilson & F. C. Keil (Eds.), T
 - [CS] Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, and Illia Polosukhin. 2017. “Attention Is All You Need,” June. https://arxiv.org/abs/1706.03762v5.
 
 ## Week 08. Generative Adversarial Networks, Creative AI, and the Habitus.
-- Final Project Draft Proposal DUE
-
+*Final Project Draft Proposal DUE*
 - [R] [CS] Mordvintsev, Alexander, Christopher Olah, and Mike Tyka. 2015. “Inceptionism: Going Deeper into Neural Networks.” Google Research Blog (blog). June 2015. https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html.
 - [R] [CS] Olah, Chris, Alexander Mordvintsev, and Ludwig Schubert. 2017. “Feature Visualization.” Distill 2 (11): e7. https://doi.org/10.23915/distill.00007.
 - (*) [CS] Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. 2015. “A Neural Algorithm of Artistic Style.” ArXiv:1508.06576 [Cs, q-Bio], August. http://arxiv.org/abs/1508.06576.
