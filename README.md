@@ -14,7 +14,7 @@ Dr Michael Castelle
 
 - [R] Required reading
 - (*) Available for Presentation
-- [CS] Computer Science, [CogS] Cognitive Science, [H] History, [L] Law, [LT] Literary Theory,[M] Maths, [P] Psychology, [S] Semiotics, [SS] Social Sciences, [Stat] Statistics, [T] Theory
+- [CS] Computer Science, [CogS] Cognitive Science, [H] History, [L] Law, [LT] Literary Theory, [M] Math/s, [P] Psychology, [S] Semiotics, [SS] Social Sciences, [Stat] Statistics, [T] Theory
 
 ### Assessments
 - 40% Laboratory Assignment and Report (15 CATS: 2000 words, 20/30 CATS: 3000 words) 
@@ -84,3 +84,18 @@ Jordan, M. I. (1999). Recurrent Networks. In R. A. Wilson & F. C. Keil (Eds.), T
 - (*) [CS] Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. 2015. “A Neural Algorithm of Artistic Style.” ArXiv:1508.06576 [Cs, q-Bio], August. http://arxiv.org/abs/1508.06576.
 - (*) [CS] Goodfellow, Ian J., Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, and Yoshua Bengio. 2014. “Generative Adversarial Networks.” ArXiv:1406.2661 [Cs, Stat], June. http://arxiv.org/abs/1406.2661.
 - (*) [CS] Karpathy, Andrej, and Li Fei-Fei. 2014. “Deep Visual-Semantic Alignments for Generating Image Descriptions,” December. https://arxiv.org/abs/1412.2306v2.
+
+## Week 09. Interpretability and Dialogicality
+- [R] [SS] Burrell, Jenna. 2016. “How the Machine ‘Thinks’: Understanding Opacity in Machine Learning Algorithms.” Big Data & Society 3 (1)
+- (*) [SS] Jones, Raya A. 2017. “What Makes a Robot ‘Social’?” Social Studies of Science, 1–24.
+- (*) [CogS] Marková, Ivana. 2003. Dialogicality and Social Representations: The Dynamics of Mind. Cambridge: Cambridge University Press.
+- (*) [LT] Bakhtin, M. M. 1982. The Dialogic Imagination: Four Essays. Edited by Michael Holquist. Translated by Caryl Emerson. New Ed edition. Austin, Tex: University of Texas Press.
+
+## Week 10 Agency: Reinforcement Learning, Autonomous Agents, and Alignment
+*Final Project Revised Proposal DUE*
+- (*) [SS] Goffman, Erving. 1986. Frame Analysis: An Essay on the Organization of Experience. New edition edition. Boston: Northeastern University Press.
+- (*) [CS] Leike, Jan, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, and Shane Legg. 2018. “Scalable Agent Alignment via Reward Modeling: A Research Direction.” ArXiv:1811.07871 [Cs, Stat], November. http://arxiv.org/abs/1811.07871.
+- (*) [CS, L] Hadfield-Menell, Dylan, and Gillian Hadfield. 2018. “Incomplete Contracting and AI Alignment.” ArXiv:1804.04268 [Cs], April. http://arxiv.org/abs/1804.04268.
+- (*) [CS] Zahavy, Tom, Nir Ben Zrihem, and Shie Mannor. 2016. “Graying the Black Box: Understanding DQNs,” February. https://arxiv.org/abs/1602.02658v4.
+- [CS] Moravčík, Matej, Martin Schmid, Neil Burch, Viliam Lisý, Dustin Morrill, Nolan Bard, Trevor Davis, Kevin Waugh, Michael Johanson, and Michael Bowling. 2017. “DeepStack: Expert-Level Artificial Intelligence in Heads-up No-Limit Poker.” Science 356 (6337): 508–13.
+
